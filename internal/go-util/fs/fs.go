@@ -8,6 +8,9 @@ import (
 	"path/filepath"
 	"runtime"
 	"strings"
+
+	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"
+	ustr "github.com/peterbeamish/go-xsd/internal/go-util/str"
 )
 
 //	Handles a file-system notification originating in a `Watcher`.

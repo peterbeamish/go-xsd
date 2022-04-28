@@ -4,6 +4,9 @@ import (
 	"strconv"
 	"strings"
 	"unicode"
+
+	umisc "github.com/peterbeamish/go-xsd/internal/go-util"
+	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"
 )
 
 type RuneCaser interface {

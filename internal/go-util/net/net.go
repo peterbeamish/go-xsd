@@ -7,6 +7,8 @@ import (
 	"net/http"
 	"os"
 	"strings"
+
+	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
 )
 
 //	Returns the result of `os.Hostname` if any, else `localhost`.
