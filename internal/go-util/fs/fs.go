@@ -8,9 +8,6 @@ import (
 	"path/filepath"
 	"runtime"
 	"strings"
-
-	"github.com/metaleap/go-util/slice"
-	"github.com/metaleap/go-util/str"
 )
 
 //	Handles a file-system notification originating in a `Watcher`.

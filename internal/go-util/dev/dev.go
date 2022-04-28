@@ -5,11 +5,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/metaleap/go-util"
-	"github.com/metaleap/go-util/fs"
-	"github.com/metaleap/go-util/run"
-	"github.com/metaleap/go-util/slice"
-	"github.com/metaleap/go-util/str"
+	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
+	urun "github.com/peterbeamish/go-xsd/internal/go-util/run"
+	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"
+	ustr "github.com/peterbeamish/go-xsd/internal/go-util/str"
 )
 
 type SrcMsg struct {

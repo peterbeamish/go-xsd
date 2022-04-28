@@ -5,14 +5,8 @@ import (
 	"path/filepath"
 	"strings"
 
+	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
 	gurujson "golang.org/x/tools/cmd/guru/serial"
-
-	"github.com/metaleap/go-util"
-	"github.com/metaleap/go-util/dev"
-	"github.com/metaleap/go-util/fs"
-	"github.com/metaleap/go-util/run"
-	"github.com/metaleap/go-util/slice"
-	"github.com/metaleap/go-util/str"
 )
 
 type Gogetdoc struct {

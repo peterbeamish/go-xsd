@@ -1,3 +1,4 @@
+//go:build !appengine
 // +build !appengine
 
 package ufs
@@ -9,8 +10,6 @@ import (
 	"time"
 
 	"github.com/go-forks/fsnotify"
-
-	"github.com/metaleap/go-util/str"
 )
 
 //	A convenient wrapper around `go-forks/fsnotify.Watcher`.

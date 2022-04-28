@@ -2,8 +2,6 @@ package udevhs
 
 import (
 	"strings"
-
-	"github.com/metaleap/go-util/run"
 )
 
 var (
