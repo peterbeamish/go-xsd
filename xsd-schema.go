@@ -297,7 +297,6 @@ func LoadSchema(uri string, localCopy bool) (sd *Schema, err error) {
 			}
 		}
 		if err == nil {
-			fmt.Println("loadSchemaFile")
 			if sd, err = loadSchemaFile(localPath, uri); sd != nil {
 				sd.loadLocalPath = localPath
 			}
