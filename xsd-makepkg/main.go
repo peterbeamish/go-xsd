@@ -57,6 +57,10 @@ func main() {
 	}
 	for _, s := range schemas {
 		log.Printf("LOAD:\t%v\n", s)
+		if *flagLocalCopy {
+			log.Printf("USING LOCAL COPY: \t%v\n", s)
+		}
+
 		if sd, err = xsd.LoadSchema(s, *flagLocalCopy); err != nil {
 			log.Printf("\tERROR: %v\n", err)
 		} else if sd != nil {
