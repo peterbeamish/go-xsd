@@ -6,9 +6,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/metaleap/go-util/dev/go"
-
-	xsd "github.com/metaleap/go-xsd"
+	xsd "github.com/peterbeamish/go-xsd"
+	udevgo "github.com/peterbeamish/go-xsd/internal/go-util/dev/go"
 )
 
 var (

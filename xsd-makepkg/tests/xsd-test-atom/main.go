@@ -5,8 +5,6 @@ import (
 
 	"github.com/metaleap/go-xsd/xsd-makepkg/tests"
 
-	"github.com/metaleap/go-util/dev/go"
-
 	atom "github.com/metaleap/go-xsd-pkg/kbcafe.com/rss/atom.xsd.xml_go"
 )
 
