@@ -12,6 +12,8 @@ github.com/metaleap/go-xsd-pkg v0.0.0-20170406225954-08667a7aef37 h1:+rgBDdkgo7N
 github.com/metaleap/go-xsd-pkg v0.0.0-20170406225954-08667a7aef37/go.mod h1:ddGuZ1vXVIlRk4qMwD0y7XbOhJH2yOshbtZppEUGJEk=
 github.com/peterbeamish/go-xsd/internal/go-util v0.0.0-20220428171708-ae55ef912def h1:A2FQUt/Vi9nig7ZhQzlCEG+htAAj8B9f9eL5qOJLS/k=
 github.com/peterbeamish/go-xsd/internal/go-util v0.0.0-20220428171708-ae55ef912def/go.mod h1:qoZBSuLXUtWbh1W4Hy99SlcqXWCjEII/Umss0EC9gac=
+github.com/peterbeamish/go-xsd/internal/go-util v0.0.0-20220428172552-7b051747fc90 h1:ASSifBuPGX6WpMIicQPwXkrwhJ3CJyStfesL7tV4P1o=
+github.com/peterbeamish/go-xsd/internal/go-util v0.0.0-20220428172552-7b051747fc90/go.mod h1:qoZBSuLXUtWbh1W4Hy99SlcqXWCjEII/Umss0EC9gac=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
