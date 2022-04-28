@@ -5,6 +5,7 @@ import (
 	"strconv"
 	"strings"
 
+	umisc "github.com/peterbeamish/go-xsd/internal/go-util"
 	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
 	urun "github.com/peterbeamish/go-xsd/internal/go-util/run"
 	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"

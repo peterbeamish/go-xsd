@@ -5,7 +5,12 @@ import (
 	"path/filepath"
 	"strings"
 
+	umisc "github.com/peterbeamish/go-xsd/internal/go-util"
+	udev "github.com/peterbeamish/go-xsd/internal/go-util/dev"
 	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
+	urun "github.com/peterbeamish/go-xsd/internal/go-util/run"
+	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"
+	ustr "github.com/peterbeamish/go-xsd/internal/go-util/str"
 	gurujson "golang.org/x/tools/cmd/guru/serial"
 )
 

@@ -19898,7 +19898,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util",
 		"github.com/peterbeamish/go-xsd/internal/go-util/num",
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"strings"
 	],
 	"Deps": [
@@ -19919,7 +19919,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util/num",
 		"github.com/peterbeamish/go-xsd/internal/go-util/slice",
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"hash",
 		"hash/adler32",
 		"hash/crc32",
@@ -23710,7 +23710,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util/net",
 		"github.com/peterbeamish/go-xsd/internal/go-util/slice",
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"io",
 		"io/ioutil",
 		"os",
@@ -23762,7 +23762,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util/net",
 		"github.com/peterbeamish/go-xsd/internal/go-util/slice",
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"hash",
 		"hash/crc32",
 		"internal/nettrace",
@@ -23820,7 +23820,7 @@
 }
 {
 	"Dir": "d:\\go\\src\\github.com\\metaleap\\go-xsd\\types",
-	"ImportPath": "github.com/metaleap/go-xsd/types",
+	"ImportPath": "github.com/peterbeamish/go-xsd/types",
 	"Name": "xsdt",
 	"Doc": "A tiny package imported by all \"go-xsd\"-generated packages.",
 	"Target": "d:\\go\\pkg\\windows_amd64\\github.com\\metaleap\\go-xsd\\types.a",
@@ -23909,7 +23909,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util/slice",
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
 		"github.com/metaleap/go-xsd",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"hash",
 		"hash/crc32",
 		"internal/nettrace",
@@ -24083,7 +24083,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
 		"github.com/metaleap/go-xsd-pkg/kbcafe.com/rss/atom.xsd.xml_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/03/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"github.com/metaleap/go-xsd/xsd-makepkg/tests",
 		"hash",
 		"hash/crc32",
@@ -24170,7 +24170,7 @@
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/xml.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/common/xlink-href.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/mathml2.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"github.com/metaleap/go-xsd/xsd-makepkg/tests",
 		"hash",
 		"hash/crc32",
@@ -24252,7 +24252,7 @@
 		"github.com/metaleap/go-xsd-pkg/docs.oasis-open.org/election/external/xAL.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/schemas.opengis.net/kml/2.2.0/atom-author-link.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/schemas.opengis.net/kml/2.2.0/ogckml22.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"github.com/metaleap/go-xsd/xsd-makepkg/tests",
 		"hash",
 		"hash/crc32",
@@ -24332,7 +24332,7 @@
 		"github.com/peterbeamish/go-xsd/internal/go-util/slice",
 		"github.com/peterbeamish/go-xsd/internal/go-util/str",
 		"github.com/metaleap/go-xsd-pkg/thearchitect.co.uk/schemas/rss-2_0.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"github.com/metaleap/go-xsd/xsd-makepkg/tests",
 		"hash",
 		"hash/crc32",
@@ -24414,7 +24414,7 @@
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/SVG.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/xlink.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"github.com/metaleap/go-xsd/xsd-makepkg/tests",
 		"hash",
 		"hash/crc32",
@@ -24474,13 +24474,13 @@
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/docbook.org/xml/5.0/xsd/xlink.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/docbook.org/xml/5.0/xsd/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/docbook.org/xml/5.0/xsd/xlink.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/docbook.org/xml/5.0/xsd/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24503,11 +24503,11 @@
 		"xlink.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24530,11 +24530,11 @@
 		"xml.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24557,11 +24557,11 @@
 		"xAL.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24585,12 +24585,12 @@
 	],
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/03/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/03/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24614,12 +24614,12 @@
 	],
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/03/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/03/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24644,14 +24644,14 @@
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/xml.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/mathml2.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/2001/xml.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/common/xlink-href.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/mathml2.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24674,11 +24674,11 @@
 		"atom-author-link.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24703,13 +24703,13 @@
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/docs.oasis-open.org/election/external/xAL.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/schemas.opengis.net/kml/2.2.0/atom-author-link.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/docs.oasis-open.org/election/external/xAL.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/schemas.opengis.net/kml/2.2.0/atom-author-link.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24732,11 +24732,11 @@
 		"rss-2_0.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24759,11 +24759,11 @@
 		"xml.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24786,11 +24786,11 @@
 		"xml.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24813,11 +24813,11 @@
 		"schema-for-xslt20.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24840,11 +24840,11 @@
 		"xlink-href.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24868,12 +24868,12 @@
 	],
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/common/xlink-href.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/Math/XMLSchema/mathml2/common/xlink-href.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24898,13 +24898,13 @@
 	"Imports": [
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/xlink.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/xlink.xsd_go",
 		"github.com/metaleap/go-xsd-pkg/www.w3.org/TR/2002/WD-SVG11-20020108/xml.xsd_go",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24927,11 +24927,11 @@
 		"xlink.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",
@@ -24954,11 +24954,11 @@
 		"xml.xsd.go"
 	],
 	"Imports": [
-		"github.com/metaleap/go-xsd/types"
+		"github.com/peterbeamish/go-xsd/types"
 	],
 	"Deps": [
 		"errors",
-		"github.com/metaleap/go-xsd/types",
+		"github.com/peterbeamish/go-xsd/types",
 		"math",
 		"runtime",
 		"runtime/internal/atomic",

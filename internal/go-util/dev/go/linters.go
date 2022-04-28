@@ -3,6 +3,7 @@ package udevgo
 import (
 	"strings"
 
+	udev "github.com/peterbeamish/go-xsd/internal/go-util/dev"
 	ustr "github.com/peterbeamish/go-xsd/internal/go-util/str"
 )
 

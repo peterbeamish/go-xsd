@@ -12,7 +12,7 @@ import (
 	"unicode"
 
 	udev "github.com/peterbeamish/go-xsd/internal/go-util/dev"
-	ugithub.com/peterbeamish/go-xsd/internal/go-utilutil/fs"
+	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
 	urun "github.com/peterbeamish/go-xsd/internal/go-util/run"
 	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"
 	ustr "github.com/peterbeamish/go-xsd/internal/go-util/str"

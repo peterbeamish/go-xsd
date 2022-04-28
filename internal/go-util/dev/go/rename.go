@@ -9,6 +9,7 @@ import (
 	ufs "github.com/peterbeamish/go-xsd/internal/go-util/fs"
 	urun "github.com/peterbeamish/go-xsd/internal/go-util/run"
 	uslice "github.com/peterbeamish/go-xsd/internal/go-util/slice"
+	ustr "github.com/peterbeamish/go-xsd/internal/go-util/str"
 )
 
 func Gorename(cmdname string, filepath string, offset int, newname string, eol string) (fileedits udev.SrcMsgs, err error) {
